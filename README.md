@@ -15,7 +15,7 @@ I work in **machine learning**, **algorithms**, and **full-stack development** �
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -86,11 +86,6 @@ Designed and implemented a **Genetic Algorithm-based solver** in Python, benchma
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=NavanitReddyT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NavanitReddyT&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=NavanitReddyT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
