@@ -77,23 +77,8 @@ Extends beyond standard classification to include ensemble distillation into int
 
 ---
 
-### p-Center Facility Location — Genetic Algorithm Solver
-> Heuristic solver for the NP-hard p-Center location problem.
-
-Designed and implemented a **Genetic Algorithm-based solver** in Python, benchmarked across **40+ datasets** to evaluate solution quality and convergence behaviour.
-
-`Python` `NumPy`
-
----
-
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=NavanitReddyT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navanit-reddy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navanit.reddy@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NavanitReddyT&color=0e75b6&style=flat)
